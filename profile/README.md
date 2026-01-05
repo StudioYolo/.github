@@ -1,4 +1,6 @@
-![Logo](https://github.com/StudioYolo/.github/blob/main/images/logo.png) 
+<p align="center">
+  <img src="https://github.com/StudioYolo/.github/blob/main/images/logo.png" width="200"/>
+</p>
 
 ## Yolo
 
