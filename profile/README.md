@@ -6,7 +6,7 @@
 
 Yolo Studio é responsável pelo desenvolvimento e manutenção do Yolo RP. 
 
-* [Site](https://www.yolorp.com)
+* [Site](https://yolorp.com)
 * [Discord](https://discord.yolorp.com)
 
 ----
